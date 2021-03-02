@@ -57,7 +57,7 @@
             <a href="<%=path%>/service">
                 <div>
                     <h3>服务领域</h3>
-                    <p>别墅装修，校区装修</p>
+                    <p>VR头戴</p>
                 </div>
             </a>
         </li>
